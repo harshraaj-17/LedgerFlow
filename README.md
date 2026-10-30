@@ -1,4 +1,4 @@
-# Backend Ledger — Banking Transaction Management API
+# LedgerFlow — Banking Transaction Management API
 
 A learning/portfolio backend for ledger-based account balances and account-to-account transfers, built with Node.js, Express, MongoDB, and Mongoose. It includes JWT authentication, user-owned accounts, append-only ledger entries, idempotency keys, MongoDB transactions, and optional email notifications.
 
